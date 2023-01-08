@@ -7,7 +7,7 @@
 **Abstract of the paper:** 
 In this paper, we propose a multi-functional reconfigurable intelligent surface (MF-RIS) to address the half-space coverage and double-fading attenuation issues faced by existing RISs.
 By simultaneously reflecting, transmitting, and amplifying the incident signal, the proposed MF-RIS is capable of realizing a full-space coverage with the	mitigated double-fading.
-The working principle of the MF-RIS is introduced, based on which a efficient full-dimensional beamforming scheme is proposed for MF-RIS aided wireless communications.
+The working principle of the MF-RIS is introduced, based on which an efficient full-dimensional beamforming scheme is proposed for MF-RIS aided wireless communications.
 Simulation results show that, through the joint design of multiple signal processing functions on one surface, the proposed MF-RIS achieves significant throughput improvement than existing RISs.
 
 *********************************************************************************************************************************
