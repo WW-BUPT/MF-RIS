@@ -1,7 +1,7 @@
 ## MF-RIS-INFOCOM
 
 **Note:** All code and demonstrations are used for our submitted papers:
-> Wen Wang, Wanli Ni, and Hui Tian, "Multi-Functional Reconfigurable Intelligent Surface," IEEE INFOCOM Demo, May. 2023.
+> Wen Wang, Wanli Ni, and Hui Tian, "Multi-Functional Reconfigurable Intelligent Surface," submitted to IEEE INFOCOM Demo, May. 2023.
 
 *********************************************************************************************************************************
 **Abstract of the paper:** 
