@@ -24,3 +24,8 @@ Simulation results show that, through the joint design of multiple signal proces
 One could run the `main.m` to see the demo of the algorithms.
 
 Note to change the parameters and modes according to your demand.
+
+### References 
+[1] K. Liu, Z. Zhang, L. Dai, S. Xu, and F. Yang, “[Active reconfigurable intelligent surface: Fully-connected or sub-connected?](https://ieeexplore.ieee.org/document/9568854),” IEEE Commun. Lett., vol. 26, no. 1, pp. 167-171, Jan. 2022.
+
+[2] M. Grant and S. Boyd, “[CVX: Matlab software for disciplined convex programming, version 2.1](http: //cvxr.com/cvx/),” Mar. 2014.
