@@ -1,7 +1,7 @@
-## MF-RIS-INFOCOM
+## Multi-Functional RIS-Aided Wireless Communications
 
 **Note:** All code and demonstrations are used for our submitted papers:
-> Wen Wang, Wanli Ni, and Hui Tian, "Multi-Functional RIS-Aided Wireless Communications," submitted to IEEE INFOCOM Demo, May. 2023.
+> Wen Wang, Wanli Ni, and Hui Tian, "Multi-Functional RIS-Aided Wireless Communications," submitted to IEEE INFOCOM Demo, New York, USA, May 2023.
 
 *********************************************************************************************************************************
 
