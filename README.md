@@ -1,7 +1,7 @@
 ## Multi-Functional RIS-Aided Wireless Communications
 
 **Note:** All code and demonstrations are used for our submitted papers:
-> Wen Wang, Wanli Ni, and Hui Tian, "Multi-Functional RIS-Aided Wireless Communications," submitted to IEEE INFOCOM Demo, New York, USA, May 2023.
+> Wen Wang, Wanli Ni, and Hui Tian, "Multi-Functional RIS-Aided Wireless Communications," submitted to IEEE Internet of Things Journal.
 
 *********************************************************************************************************************************
 
@@ -26,3 +26,5 @@ Note to change the parameters and modes according to your demand.
 [3]	H. Zhang, S. Zeng, B. Di, Y. Tan, M. Di Renzo, M. Debbah, Z. Han, H. V. Poor, and L. Song, “[Intelligent omni-surfaces for full-dimensional wireless communications: Principles, technology, and implementation](https://ieeexplore.ieee.org/document/9722826),” IEEE Commun. Mag., vol. 60, no. 2, pp. 39-45, Feb. 2022.
 
 [4] K. Liu, Z. Zhang, L. Dai, S. Xu, and F. Yang, “[Active reconfigurable intelligent surface: Fully-connected or sub-connected?](https://ieeexplore.ieee.org/document/9568854),” IEEE Commun. Lett., vol. 26, no. 1, pp. 167-171, Jan. 2022.
+
+[5] Z. Zhang and L. Dai, “[A joint precoding framework for wideband reconfigurable intelligent surface-aided cell-free network](https://ieeexplore.ieee.org/document/9459505),” IEEE Trans. Signal Process., vol. 69, pp. 4085-4101, Jun. 2021.
