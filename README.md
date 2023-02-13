@@ -23,8 +23,10 @@ Note to change the parameters and modes according to your demand.
 
 [2] W. Wang, W. Ni, H. Tian, Z. Yang, C. Huang, and K. -K. Wong, “[Safeguarding NOMA networks via reconfigurable dual-functional surface under imperfect CSI](https://ieeexplore.ieee.org/document/9774882/),” IEEE J. Sel. Topics Signal Process., vol. 16, no. 5, pp. 950-966, Aug. 2022.
 
-[3]	H. Zhang, S. Zeng, B. Di, Y. Tan, M. Di Renzo, M. Debbah, Z. Han, H. V. Poor, and L. Song, “[Intelligent omni-surfaces for full-dimensional wireless communications: Principles, technology, and implementation](https://ieeexplore.ieee.org/document/9722826),” IEEE Commun. Mag., vol. 60, no. 2, pp. 39-45, Feb. 2022.
+[3]	X. Mu, Y. Liu, L. Guo, J. Lin, and R. Schober, “[Simultaneously transmitting and reflecting (STAR) RIS aided wireless communications](https://ieeexplore.ieee.org/document/9570143/),” IEEE Trans. Wireless Commun., vol. 21, no. 5, pp. 3083-3098, May 2022.
 
-[4] K. Liu, Z. Zhang, L. Dai, S. Xu, and F. Yang, “[Active reconfigurable intelligent surface: Fully-connected or sub-connected?](https://ieeexplore.ieee.org/document/9568854),” IEEE Commun. Lett., vol. 26, no. 1, pp. 167-171, Jan. 2022.
+[4] H. Zhang, S. Zeng, B. Di, Y. Tan, M. Di Renzo, M. Debbah, Z. Han, H. V. Poor, and L. Song, “[Intelligent omni-surfaces for full-dimensional wireless communications: Principles, technology, and implementation](https://ieeexplore.ieee.org/document/9722826),” IEEE Commun. Mag., vol. 60, no. 2, pp. 39-45, Feb. 2022.
 
-[5] Z. Zhang and L. Dai, “[A joint precoding framework for wideband reconfigurable intelligent surface-aided cell-free network](https://ieeexplore.ieee.org/document/9459505),” IEEE Trans. Signal Process., vol. 69, pp. 4085-4101, Jun. 2021.
+[5] K. Liu, Z. Zhang, L. Dai, S. Xu, and F. Yang, “[Active reconfigurable intelligent surface: Fully-connected or sub-connected?](https://ieeexplore.ieee.org/document/9568854),” IEEE Commun. Lett., vol. 26, no. 1, pp. 167-171, Jan. 2022.
+
+[6] Z. Zhang and L. Dai, “[A joint precoding framework for wideband reconfigurable intelligent surface-aided cell-free network](https://ieeexplore.ieee.org/document/9459505),” IEEE Trans. Signal Process., vol. 69, pp. 4085-4101, Jun. 2021.
